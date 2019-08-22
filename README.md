@@ -53,7 +53,8 @@
   - 一个基于SVG的JavaScript图表库
 - [nprogress](https://github.com/rstacruz/nprogress/)
   - 页面加载进度条，请求进度条
-
+- [spin](https://github.com/fgnass/spin.js)
+  - 一个Loading动画，可用于等待ajax请求完成之类的场景
 
 ### 音频
 - [videojs](https://github.com/videojs/video.js)
